@@ -1,0 +1,80 @@
+[
+    {
+        "id": "127",
+        "name": "Ruchi",
+        "department": "English",
+        "age": "42",
+        "address": {
+            "country": "India",
+            "state": "Haryana",
+            "city": "Panchkula",
+            "strret": "#98",
+            "pincode": "134116"
+        }
+    },
+    {
+        "id": "129",
+        "name": "Svita",
+        "department": "it",
+        "age": "29",
+        "address": {
+            "country": "India",
+            "state": "Punjab",
+            "city": "Chandigarh",
+            "strret": "#65",
+            "pincode": "140403"
+        }
+    },
+    {
+        "id": "131",
+        "name": "Savita",
+        "department": "it",
+        "age": "29",
+        "address": {
+            "country": "India",
+            "state": "Punjab",
+            "city": "Chandigarh",
+            "strret": "#65",
+            "pincode": "140403"
+        }
+    },
+    {
+        "id": "1668758113101",
+        "name": "Anushka",
+        "department": "gfg",
+        "age": "20",
+        "address": {
+            "country": "India",
+            "state": "Punjab",
+            "city": "sirhind",
+            "strret": "#46",
+            "pincode": "140403"
+        }
+    },
+    {
+        "id": "1668758451516",
+        "name": "Savita",
+        "department": "Science",
+        "age": "28",
+        "address": {
+            "country": "India",
+            "state": "Punjab",
+            "city": "Derabasi",
+            "strret": "#40",
+            "pincode": "140403"
+        }
+    },
+    {
+        "id": "1668845398303",
+        "name": "Jashan",
+        "department": "SSt",
+        "age": "20",
+        "address": {
+            "country": "India",
+            "state": "Punjab",
+            "city": "Derabasi",
+            "strret": "#40",
+            "pincode": "140403"
+        }
+    }
+]
